@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Healthcare Chatbot",
+  "description": "A conversational AI assistant designed to provide general health information and support. This chatbot is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
